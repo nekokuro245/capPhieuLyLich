@@ -545,6 +545,25 @@
     color: #fff;
 }
 
+.custom-select {
+    width: 60%;
+    height: 30px;
+}
+
+.custom-select select {
+    height: 30px;
+    width: 100%;
+    font-size: 1.6rem;
+    border: 1px solid #ccc;
+}
+
+.gender-radio-button {
+    width: 60%;
+    display: flex;
+    justify-content: space-around;
+    font-size: 1.6rem;
+}
+
 
 
 #footer {
